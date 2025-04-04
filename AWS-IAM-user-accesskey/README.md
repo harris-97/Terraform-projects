@@ -32,8 +32,8 @@ Before running this script, ensure you have:
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/harris-97/AWS-IAM-user-key-terraform
-cd AWS-IAM-user-key-terraform
+git clone https://github.com/harris-97/AWS-IAM-user-accesskey.git
+cd AWS-IAM-user-accesskey
 ```
 
 ### 2️⃣ Initialize Terraform
